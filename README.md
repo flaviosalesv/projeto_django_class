@@ -1,3 +1,3 @@
 # django_class
 
-Enviando o Requirements
+Projeto backend EBAC Django.
